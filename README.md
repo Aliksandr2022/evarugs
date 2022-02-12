@@ -1,1 +1,1 @@
-# evarugs
+# evarugsv - учебный проект 
